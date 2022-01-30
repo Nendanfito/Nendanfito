@@ -1,7 +1,7 @@
 <body>
 <h1>💻 Welcome to my GitHub profile </h1>
 <ul>
-  <li> I'm Fernando Andrés Galindo, the FullStack Developer you are looking for </li>
+  <li> I'm <strong>Fernando Andrés Galindo</strong>, the FullStack Developer you are looking for ✅</li>
   <li> Actually I'm studying 4º Software Engenieering in 'Universidad de Sevilla' </li>
   <li> Here you could research some projects I've done for practising what I love most </li>
 </ul>
@@ -17,6 +17,7 @@
     <li>Java</li>
     <li>Spring Boot</li>
   </ol>
+  <p align="center"><img src="https://media.istockphoto.com/photos/man-legs-in-sneakers-standing-next-to-laptop-and-javascript-on-picture-id1194720790?b=1&k=20&m=1194720790&s=170667a&w=0&h=mfEFF2KdqYMK7sZ55id2_qffKTynOGXzcKg01ctRy90="/></p> 
 </body>
   
 
