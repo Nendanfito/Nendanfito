@@ -14,8 +14,10 @@
     <li>JavaScript</li>
     <li>HTML5</li>
     <li>CSS3</li>
+    <li>React</li>
     <li>Java</li>
     <li>Spring Boot</li>
+    <li>Git</li>
   </ol>
   <p align="center"><img src="https://media.istockphoto.com/photos/man-legs-in-sneakers-standing-next-to-laptop-and-javascript-on-picture-id1194720790?b=1&k=20&m=1194720790&s=170667a&w=0&h=mfEFF2KdqYMK7sZ55id2_qffKTynOGXzcKg01ctRy90="/></p> 
 </body>
