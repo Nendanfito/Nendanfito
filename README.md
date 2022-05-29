@@ -10,17 +10,9 @@
   <a href="https://www.linkedin.com/in/fernando-andr%C3%A9s-dev/" target="_blank">💼 Linkedin</a> <br>
   <a href="https://www.instagram.com/nendanfito/?hl=es" target=_blank>📸 Instagram</a>
   <h2> My skills and knowledge 🧠 </h2>
-  <ul>
-    <li>JavaScript</li>
-    <li>HTML5</li>
-    <li>CSS3</li>
-    <li>React</li>
-    <li>Java</li>
-    <li>Spring Boot</li>
-    <li>Git</li>
-    <li>Scrum</li>
-  </ul>
-  <p align="center"><img src="https://media.istockphoto.com/photos/man-legs-in-sneakers-standing-next-to-laptop-and-javascript-on-picture-id1194720790?b=1&k=20&m=1194720790&s=170667a&w=0&h=mfEFF2KdqYMK7sZ55id2_qffKTynOGXzcKg01ctRy90="/></p> 
+  
+  <div style="display:flex"> <img width="450px" src="https://www.applinet.es/wp-content/uploads/2014/08/HTML5_CSS_JavaScript.png"/> <img width="250px" src="https://img.icons8.com/color/480/mongodb.png"/><img width="250px" src="https://img.icons8.com/color/480/graphql.png"/></div>
+  <div style="display:flex"><img width="220px" src="https://judithcristina.github.io/My-portfolio/img/iconos/git.png"/><img width="250px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png"/><img width="250px" src="https://www.isnotdown.com/assets/pics/spring.png"/> <img width="280px" src="https://elblogdecodigo.files.wordpress.com/2014/12/java_logo.png"/></div>
 </body>
   
 
