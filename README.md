@@ -12,17 +12,17 @@
   <h2> My skills and knowledge 🧠 </h2>
   
   <div style="display:flex"> 
-    <img width="430px" src="https://www.applinet.es/wp-content/uploads/2014/08/HTML5_CSS_JavaScript.png"/> 
-    <img width="250px" src="https://img.icons8.com/color/480/mongodb.png"/></div>
-  <div style="display:flex">
-    <img width="230px" src="https://img.icons8.com/color/480/graphql.png"/>
-    <img width="220px" src="https://judithcristina.github.io/My-portfolio/img/iconos/git.png"/>
-    <img width="270px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"/>
+    <img width="200px" src="https://www.applinet.es/wp-content/uploads/2014/08/HTML5_CSS_JavaScript.png"/> 
+    <img width="100px" src="https://img.icons8.com/color/480/mongodb.png"/>
+    <img width="100px" src="https://img.icons8.com/color/480/graphql.png"/>
   </div>
   <div style="display:flex">
-    <img width="250px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png"/>
-    <img width="250px" src="https://www.isnotdown.com/assets/pics/spring.png"/> 
-    <img width="250px" src="https://elblogdecodigo.files.wordpress.com/2014/12/java_logo.png"/></div>
+    <img width="120px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"/>
+    <img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png"/>
+    <img width="100px" src="https://www.isnotdown.com/assets/pics/spring.png"/> 
+    <img width="130px" src="https://elblogdecodigo.files.wordpress.com/2014/12/java_logo.png"/>
+    <img width="100px" src="https://judithcristina.github.io/My-portfolio/img/iconos/git.png"/>
+  </div>
 </body>
   
 
