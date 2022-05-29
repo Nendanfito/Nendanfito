@@ -17,6 +17,7 @@
   <div style="display:flex">
     <img width="230px" src="https://img.icons8.com/color/480/graphql.png"/>
     <img width="220px" src="https://judithcristina.github.io/My-portfolio/img/iconos/git.png"/>
+    <img width="270px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"/>
   </div>
   <div style="display:flex">
     <img width="250px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png"/>
