@@ -6,9 +6,10 @@
   <li> Here you could research some projects I've done for practising what I love most </li>
 </ul>
 <h2> Where can you find me? 🌎 <h2>
+  <a href="https://ferandgal.netlify.app/" target=_blank>🙋🏼 Porfolio</a> <br>
   <a href="mailto:fernando.andres.dev@gmail.com" target="_blank">📩 Email</a> <br>
   <a href="https://www.linkedin.com/in/fernando-andr%C3%A9s-dev/" target="_blank">💼 Linkedin</a> <br>
-  <a href="https://www.instagram.com/nendanfito/?hl=es" target=_blank>📸 Instagram</a>
+  <a href="https://www.instagram.com/nendanfito/?hl=es" target=_blank>📸 Instagram</a> 
   <h2> My skills and knowledge 🧠 </h2>
   
   <div style="display:flex"> 
